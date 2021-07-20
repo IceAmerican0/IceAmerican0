@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
- ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true)
+ ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true) </br>
  ![abc](https://github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5)
  
  </div>
