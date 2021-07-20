@@ -4,6 +4,6 @@
 
 # <div align="center">Techs
  <div align="center">
-<img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 </div>
