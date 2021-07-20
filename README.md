@@ -1,5 +1,5 @@
 # <div align="center">Introduce 🙋‍♂️</div>
-<div align="center"> new comer developer </div>
+<div align="center"> Newcomer Developer </div>
  
 
 # <div align="center">Techs
@@ -15,5 +15,5 @@
 
 </div>
 
- github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true
- github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5
+ Link : [통계][github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true]
+ [github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5]
