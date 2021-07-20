@@ -1,8 +1,8 @@
-# <div align="center">Introduce 🙋‍♂️</div>
+# <div align="center">🙋‍ Introduce 🙋‍♂️</div>
 <div align="center"> Newcomer Developer </div>
  
 </br></br>
-# <div align="center">Techs
+# <div align="center">⚒ Techs 🛠
  <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
