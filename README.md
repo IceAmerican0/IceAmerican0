@@ -17,8 +17,7 @@
  
  </br></br>
 # <div align="center"> Git Stats
- </br>
- ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true&theme=dark) </br></br></br>
+ ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true&theme=dark)
  ![abc](https://github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5)
  
  </div>
