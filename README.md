@@ -1,7 +1,7 @@
 # <div align="center">Introduce 🙋‍♂️</div>
 <div align="center"> Newcomer Developer </div>
  
-
+</br></br>
 # <div align="center">Techs
  <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -12,8 +12,10 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+ 
+ </br></br>
 
- ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true) </br>
+ ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true&theme=dark) </br></br></br>
  ![abc](https://github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5)
  
  </div>
