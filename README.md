@@ -1,8 +1,10 @@
 # <div align="center">🙋‍ Introduce 🙋‍♂️</div>
+</br>
 <div align="center"> Newcomer Developer </div>
  
 </br></br>
 # <div align="center">⚒ Techs 🛠
+ </br>
  <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
@@ -15,6 +17,7 @@
  
  </br></br>
 # <div align="center"> Git Stats
+ </br>
  ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true&theme=dark) </br></br></br>
  ![abc](https://github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5)
  
