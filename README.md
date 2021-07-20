@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
  
  </br></br>
-# <div align="center"> Git Stats
+# <div align="center">⚒ Git Stats 🛠
  ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true)&nbsp;&nbsp;
  ![abc](https://github-readme-stats.vercel.app/api/top-langs/?username=IceAmerican0&langs_count=5)
  
