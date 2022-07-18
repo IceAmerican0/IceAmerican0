@@ -1,6 +1,6 @@
 # <div align="center">🙋‍ Introduce 🙋‍♂️</div>
 </br>
-<div align="center"> Newcomer Developer </div>
+<div align="center"> Junior iOS Developer </div>
  
 </br></br>
 # <div align="center">⚒ Techs 🛠
