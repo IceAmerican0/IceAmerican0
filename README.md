@@ -8,4 +8,4 @@ Usually using Swift.
 Interested in multiple Architectures, shortening codes.
 </br></br>
 ### 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true )
