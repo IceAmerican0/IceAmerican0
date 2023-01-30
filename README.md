@@ -7,4 +7,4 @@ Usually using Swift.
 </br></br>
 Interested in multiple Architectures, shortening codes.
 </br></br>
- ![STATS](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true)&nbsp;&nbsp;
+![IceAmerican0's GitHub stats](https://github-readme-stats.vercel.app/api?username=IceAmerican0&show_icons=true)&nbsp;&nbsp;
