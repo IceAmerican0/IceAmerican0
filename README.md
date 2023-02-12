@@ -1,5 +1,5 @@
 </br>
-👋 Hello, there 👋
+👋 Hello 👋
 </br></br>
 I'm Junior iOS Developer.
 </br></br>
